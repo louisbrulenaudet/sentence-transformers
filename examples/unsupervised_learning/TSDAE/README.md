@@ -86,7 +86,7 @@ You first train your model with the TSDAE loss. After you have trained for a cer
 If you use the code for augmented sbert, feel free to cite our publication [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoderfor Unsupervised Sentence Embedding Learning](https://arxiv.org/abs/2104.06979):
 ```bibtex 
 @article{wang-2021-TSDAE,
-    title = "TSDAE: Using Transformer-based Sequential Denoising Auto-Encoderfor Unsupervised Sentence Embedding Learning",
+    title = "TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning",
     author = "Wang, Kexin and Reimers, Nils and  Gurevych, Iryna", 
     journal= "arXiv preprint arXiv:2104.06979",
     month = "4",
